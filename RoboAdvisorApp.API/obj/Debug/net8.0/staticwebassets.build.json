@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a7FWDJWl7AOvN4fzhEJ2FOzeo4lTJkzsUh1a1bxNqd8=",
+  "Source": "RoboAdvisorApp.API",
+  "BasePath": "_content/RoboAdvisorApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

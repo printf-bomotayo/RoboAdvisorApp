@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RoboAdvisorApp.API.props" />
+</Project>
